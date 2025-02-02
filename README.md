@@ -25,7 +25,7 @@ Figma Link: [https://www.figma.com/proto/C5lcVMoYl8wl4fAjWhPt9p/signup-flow?node
 ✅ User-Friendly: Simple and intuitive design, making it easy to customize.
 
    
-Figma Link: [https://www.figma.com/design/VSY1XUSQS9oLY73TjoxYmG/Email-template?node-id=0-1&m=dev&t=SPaG1gHg3c6SrvAs-1]
+Figma Link: [https://www.figma.com/proto/VSY1XUSQS9oLY73TjoxYmG/Email-template?node-id=0-1&t=hw7CdCN7XmRtvzAl-1]
 
 # Restaurant Menu UI/UX Design
 
