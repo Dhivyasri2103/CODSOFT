@@ -6,8 +6,11 @@
 📌 Features:
 
 ✅ Designed a streamlined and user-friendly login and signup flow in Figma.
+
 ✅ Ensured the flow is short, personalized, useful, error-free, and secure.
-✅ The design includes personalized elements such as user name, Phone number,Email ID, and Password for creating a new account .
+
+✅ The design includes personalized elements such as user name, Phone number,Email ID, and Password for creating a new account.
+
 ✅ Attached the Figma link below for review.
    
 Figma Link: [https://www.figma.com/proto/C5lcVMoYl8wl4fAjWhPt9p/signup-flow?node-id=5-63&t=x7yB5pF2edSoFa2t-1]
