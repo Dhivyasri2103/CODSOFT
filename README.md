@@ -14,7 +14,7 @@
 ✅ Attached the Figma link below for review.
 
    
-Figma Link: [https://www.kapwing.com/videos/67a033f24edfffd4f5c42234]
+Figma Link: [https://www.figma.com/proto/C5lcVMoYl8wl4fAjWhPt9p/signup-flow?node-id=5-63&t=XqoyV2lTljUn5dz1-1]
 
 # Email Template Design
 
