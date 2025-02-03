@@ -1,4 +1,3 @@
-# CODSOFT
 # UI/UX Design using Figma
 
 # Mobile App Signup Flow 
